@@ -26,4 +26,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Result
 
+<img width="487" height="329" alt="image" src="https://github.com/user-attachments/assets/f36e5e55-58b7-4818-b476-8761f01c6ea1" />
+
+
 # Output 
